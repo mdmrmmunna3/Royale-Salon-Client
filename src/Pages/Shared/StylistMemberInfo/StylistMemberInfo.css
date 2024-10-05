@@ -1,0 +1,68 @@
+.imgOverlay {
+    transition: all ease-in-out .3s;
+}
+
+.hoverdImg2 {
+    transition: all ease-in-out .6s;
+}
+
+.stylist_main:hover .hoverdImg2 {
+    transform: scale(1.09);
+}
+
+/* .imgOverlay {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    top: 0;
+    bottom: 0;
+    transition: all ease-in-out .3s;
+} */
+
+.imgOverlay {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    right: 0;
+    left: 0;
+    bottom: 0;
+    transition: all ease-in-out .2s;
+    height: 0;
+}
+
+.stylist_main:hover .imgOverlay {
+    height: 100%;
+    transition: all ease-in-out .5s;
+}
+
+.stylist_main:hover .stylist_titel {
+    display: none;
+    /* bottom: 60%;
+    transition: all ease-in-out .4s;
+    background-color: transparent;
+    border: none;
+    color: white; */
+}
+
+
+/* another way  */
+/* .stylist_main:hover .stylist_titel .cat {
+    color: #0893b4;
+} */
+
+
+/* .stylist_content {
+    transition: all linear ease 5.1s;
+    bottom: 0;
+}
+
+
+.stylist_main:hover .stylist_content {
+    display: block;
+    bottom: 40%;
+    transition: all linear ease 5.1s;
+} */
+
+/* another way  */
+
+.stylist_content {
+    bottom: 15%;
+}

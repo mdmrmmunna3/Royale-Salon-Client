@@ -1,0 +1,135 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* main css are here  */
+
+.menu li>*:not(ul):not(.menu-title):not(details):active,
+.menu li>*:not(ul):not(.menu-title):not(details).active,
+.menu li>details>summary:active {
+    /* background-color: transparent; */
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+
+    /* color: aqua; */
+}
+
+/* dropdown menu start */
+/* :where(.menu-horizontal > li:not(.menu-title) > details > ul) {
+    background-color: var(--primary-color);
+    box-shadow: rgba(12, 228, 235, 0.753) 0px 5px 15px;
+} */
+
+/* dropdown menu end */
+
+/* change theme  */
+/* background-color: #0f1d22;
+0c1011
+*/
+
+:root {
+    /* light theme  */
+    --primary-color: #ffffff;
+    --secondary-color: #121c22;
+}
+
+.dark {
+    /* dark theme  */
+    --primary-color: #121c22;
+    --secondary-color: #ffffff;
+}
+
+body {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    height: 100%;
+    /* max-height: 100vh; */
+}
+
+
+
+
+/* change theme  */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800&family=Dancing+Script:wght@400;500;600;700&family=Great+Vibes&family=Oleo+Script:wght@400;700&family=Merienda:wght@300..900&family=Stardos+Stencil:wght@400;700&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+/* font-family: 'Cinzel', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Great Vibes', cursive;
+font-family: 'Oleo Script', system-ui; 
+font-family: "Black Ops One", system-ui;
+font-family: "Merienda", cursive;
+ font-family: "Crimson Text", serif;
+*/
+
+p,
+span {
+    font-family: "Crimson Text", serif;
+
+}
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header {
+    font-family: 'Cinzel', serif;
+}
+
+.royal-text {
+    font-family: 'Great Vibes', cursive;
+    background: linear-gradient(105.9deg, rgb(15, 209, 165) 3.8%, rgb(15, 157, 209) 20.8%, rgb(133, 13, 230) 51.9%, rgb(230, 13, 202) 73.1%, rgb(242, 180, 107) 94.1%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.hair-text {
+    font-family: 'Great Vibes', cursive;
+}
+
+.btn-color {
+    background: linear-gradient(105.9deg, rgb(15, 209, 165) 3.8%, rgb(15, 157, 209) 20.8%, rgb(133, 13, 230) 51.9%, rgb(230, 13, 202) 73.1%, rgb(242, 180, 107) 94.1%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.headingText {
+    font-family: "Crimson Text", serif;
+}
+
+.short-text {
+    font-family: 'Great Vibes', cursive;
+    background: linear-gradient(105.9deg, rgb(15, 157, 209) 20.8%, rgb(15, 209, 165) 3.8%, rgb(133, 13, 230) 51.9%, rgb(230, 13, 202) 73.1%, rgb(242, 180, 107) 94.1%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.cover_titel {
+    font-family: 'Great Vibes', cursive;
+    background: linear-gradient(105.9deg, rgb(223, 16, 16) 3.8%, rgb(12, 138, 184) 20.8%, rgb(124, 9, 218) 51.9%, rgb(226, 11, 197) 73.1%, rgb(226, 138, 38) 94.1%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* swiper bullet  */
+.swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
+    background: linear-gradient(105.9deg, rgb(15, 209, 165) 3.8%, rgb(15, 157, 209) 20.8%, rgb(133, 13, 230) 51.9%, rgb(230, 13, 202) 73.1%, rgb(242, 180, 107) 94.1%);
+    width: 10px;
+    height: 10px;
+}
+
+/* next-pre icon  */
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+    font-size: 25px !important;
+    background: linear-gradient(105.9deg, rgb(15, 209, 165) 3.8%, rgb(15, 157, 209) 20.8%, rgb(133, 13, 230) 51.9%, rgb(230, 13, 202) 73.1%, rgb(242, 180, 107) 94.1%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

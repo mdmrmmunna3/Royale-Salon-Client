@@ -1,0 +1,11 @@
+.services_img {
+    transition: transform 0.6s ease;
+}
+
+.servies_main:hover .services_img {
+    transform: rotate(360deg);
+}
+
+.servies_main:hover .services_name {
+    color: #0893b4;
+}

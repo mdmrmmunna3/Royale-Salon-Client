@@ -1,0 +1,35 @@
+.active {
+    /* color: rgb(8, 236, 236); */
+    border-bottom: 2px solid aqua;
+    /* border-radius: 0; */
+}
+
+.pages {
+    position: relative;
+
+}
+
+.pages_ul {
+    position: absolute;
+    margin: 0px;
+    top: 40px;
+    left: -15px;
+    width: 180px;
+    overflow: hidden;
+    height: 0;
+    bottom: 0;
+    background-color: var(--primary-color);
+    box-shadow: rgba(12, 228, 235, 0.753) 0px 5px 15px;
+    border-radius: 5px;
+    transition: ease-in .4s;
+}
+
+/* .pages_ul li {
+    border-bottom: 2px solid blueviolet;
+    border-radius: 5px;
+} */
+
+.pages:hover .pages_ul {
+    transition: ease-in .4s;
+    height: 80px;
+}

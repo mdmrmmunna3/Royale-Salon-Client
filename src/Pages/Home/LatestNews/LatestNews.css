@@ -1,0 +1,16 @@
+.hoverdImg2 {
+    transition: all ease-in-out .6s;
+}
+
+.blogs_main:hover .hoverdImg2 {
+    transform: scale(1.09);
+}
+
+.blogs_content {
+    transition: all ease-in-out .6s;
+}
+
+.blogs_main:hover .blogs_content {
+    transition: all ease-in-out .6s;
+    bottom: 100px;
+}

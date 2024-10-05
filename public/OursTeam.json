@@ -1,0 +1,23 @@
+[
+    {
+        "stylist_id": "1",
+        "name": "jony",
+        "category": "barber",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit numquam, totam hic eum id ut? Minus eveniet saepe dolorem eaque!",
+        "image": "https://templatekit.jegtheme.com/rubick/wp-content/uploads/sites/29/2020/12/barber-makes-stylish-haircut-to-client-barbershop.jpg"
+    },
+    {
+        "stylist_id": "2",
+        "name": "Natasha",
+        "category": "stylist",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit numquam, totam hic eum id ut? Minus eveniet saepe dolorem eaque!",
+        "image": "https://i.pinimg.com/474x/b1/89/36/b189360f192b8dcb9854e3aa1b7ff5aa.jpg"
+    },
+    {
+        "stylist_id": "3",
+        "name": "Roman",
+        "category": "barber",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit numquam, totam hic eum id ut? Minus eveniet saepe dolorem eaque!",
+        "image": "https://klinegroup.com/wp-content/uploads/2016/07/beard-grooming.jpg"
+    }
+]

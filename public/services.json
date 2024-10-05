@@ -1,0 +1,65 @@
+[
+    {
+        "pricing_id": "1",
+        "serve_name": "Hair Cut",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 20,
+        "image": "https://i.ibb.co/4d0wSxV/haircut-1.png"
+    },
+    {
+        "pricing_id": "2",
+        "serve_name": "Hair Dryer",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 15,
+        "image": "https://i.ibb.co/Tty0gXR/hairdryer.png"
+    },
+    {
+        "pricing_id": "3",
+        "serve_name": "Facial Massage",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 25,
+        "image": "https://i.ibb.co/0QbMFqZ/facial-massage.png"
+    },
+    {
+        "pricing_id": "4",
+        "serve_name": "Hair Washing",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 20,
+        "image": "https://i.ibb.co/tPqx09M/hair-wash.png"
+    },
+    {
+        "pricing_id": "5",
+        "serve_name": "Face Shave",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 45,
+        "image": "https://i.ibb.co/pWdb3Xp/shaving-brush.png"
+    },
+    {
+        "pricing_id": "6",
+        "serve_name": "Beard Trim",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 40,
+        "image": "https://i.ibb.co/fXNmB6Z/face-shave.png"
+    },
+    {
+        "pricing_id": "7",
+        "serve_name": "Moustache Trim",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 50,
+        "image": "https://i.ibb.co/y4BX8sJ/mustache-trim.png"
+    },
+    {
+        "pricing_id": "8",
+        "serve_name": "Coloring",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 35,
+        "image": "https://i.ibb.co/hdnn9Xc/hair-color.png"
+    },
+    {
+        "pricing_id": "9",
+        "serve_name": "Clipper Cut",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 35,
+        "image": "https://i.ibb.co/WnM83nx/clipper-cut.png"
+    }
+]

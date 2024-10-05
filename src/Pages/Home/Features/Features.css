@@ -1,0 +1,46 @@
+.feature_main {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.hoverd-img {
+    transition: all ease-in-out .6s;
+    border-radius: 5px;
+    height: 250px;
+}
+
+.feature_main:hover .hoverd-img {
+    transform: scale(1.09);
+}
+
+.overlay {
+    transition: all ease-in .6s;
+}
+
+.feature_main:hover .overlay {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    top: 0;
+    bottom: 0;
+    transition: all ease-in .6s;
+    transform: scale(1.09);
+}
+
+.feature_main h3 {
+    transition: all ease-in .3s;
+}
+
+.feature_main p {
+    transition: all ease-in .3s;
+}
+
+.feature_main:hover h3 {
+    color: #0893b4;
+    transition: all ease-in .3s;
+}
+
+.feature_main:hover p {
+    color: #0893b4;
+    transition: all ease-in .3s;
+}

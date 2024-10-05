@@ -1,0 +1,56 @@
+[
+    {
+        "blogs_id": "1",
+        "barber_name": "Ismail",
+        "titel": "blog",
+        "titel_descip": "what we need to choose the fashion model?",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit numquam, totam hic eum id ut? Minus eveniet saepe dolorem eaque!",
+        "image": "https://img.freepik.com/premium-photo/resting-home-sofa-relaxing-doing-nothing-concept_1194-594651.jpg",
+        "postDate": "2023-03-14"
+    },
+    {
+        "blogs_id": "2",
+        "barber_name": "selena",
+        "titel": "coloring",
+        "titel_descip": "Best tips and trick for your beautiful hair coloring",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit numquam, totam hic eum id ut? Minus eveniet saepe dolorem eaque!",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/actress-hilary-duff-is-seen-on-good-morning-america-on-news-photo-1595871362.jpg",
+        "postDate": "2023-03-12"
+    },
+    {
+        "blogs_id": "3",
+        "barber_name": "Roman",
+        "titel": "haircare",
+        "titel_descip": "what are the secrets of the haircut & moustache trim",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit numquam, totam hic eum id ut? Minus eveniet saepe dolorem eaque!",
+        "image": "https://duruthemes.com/demo/html/perukar/multipage-image/img/news/post1.jpg",
+        "postDate": "2023-02-07"
+    },
+    {
+        "blogs_id": "4",
+        "barber_name": "Rajib",
+        "titel": "Face Shave",
+        "titel_descip": "Best tips for groom shaving for your personality",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit numquam, totam hic eum id ut? Minus eveniet saepe dolorem eaque!",
+        "image": "https://klinegroup.com/wp-content/uploads/2016/07/beard-grooming.jpg",
+        "postDate": "2023-02-03"
+    },
+    {
+        "blogs_id": "5",
+        "barber_name": "jony",
+        "titel": "Wedding",
+        "titel_descip": "Best tips for groom shaving for your wedding",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit numquam, totam hic eum id ut? Minus eveniet saepe dolorem eaque!",
+        "image": "https://templatekit.jegtheme.com/rubick/wp-content/uploads/sites/29/2020/12/barber-makes-stylish-haircut-to-client-barbershop.jpg",
+        "postDate": "2023-01-22"
+    },
+    {
+        "blogs_id": "6",
+        "barber_name": "Natasha",
+        "titel": "hairstyle",
+        "titel_descip": "10 most iconic men's hairstyles of all times",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Suscipit numquam, totam hic eum id ut? Minus eveniet saepe dolorem eaque!",
+        "image": "https://i.pinimg.com/474x/b1/89/36/b189360f192b8dcb9854e3aa1b7ff5aa.jpg",
+        "postDate": "2023-01-18"
+    }
+]

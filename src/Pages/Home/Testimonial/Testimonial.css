@@ -1,0 +1,17 @@
+.testi_item {
+    background-image: url(../../../assets/others/hairdresser-tesBg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.testi_overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+
+}

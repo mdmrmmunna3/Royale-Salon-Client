@@ -1,0 +1,55 @@
+/* .offering_main:hover .offering_titel {
+
+} */
+.hoverdImg {
+    transition: all ease-in-out .6s;
+}
+
+.offering_main:hover .hoverdImg {
+    transform: scale(1.09);
+}
+
+.overlay {
+    transition: all ease-in-out .6s;
+}
+
+.offering_main:hover .overlay {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    top: 0;
+    bottom: 0;
+    transition: all ease-in-out .6s;
+}
+
+.offering_titel {
+    bottom: 16px;
+    left: 82px;
+    transition: all ease-in-out .5s;
+}
+
+
+.offering_main:hover .offering_titel {
+    bottom: 30%;
+    transition: all ease-in-out .5s;
+}
+
+.line {
+    transition: all ease-in-out .6s;
+}
+
+.offering_main:hover .line {
+    width: 94%;
+    left: 10px;
+    bottom: 30%;
+    transition: all ease-in-out .6s;
+}
+
+.content {
+    transition: all ease-in-out 10s .6s;
+}
+
+.offering_main:hover .content {
+    display: block;
+    bottom: 4%;
+    transition: all ease-in-out 10s 0.6s;
+}

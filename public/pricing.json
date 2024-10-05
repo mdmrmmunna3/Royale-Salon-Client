@@ -1,0 +1,58 @@
+[
+    {
+        "pricing_id": "1",
+        "serve_name": "wash and style",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 20,
+        "image": "https://static.showit.co/800/IE8wXw8_Qb6aXxQYJNiLMw/219521/hair_on_2nd_avenue_wash_and_style.jpg"
+    },
+    {
+        "pricing_id": "2",
+        "serve_name": "Long Hair",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 15,
+        "image": "https://glaminati.com/wp-content/uploads/2023/07/boys-haircuts-bowl-textured-fade-683x1024.jpg"
+    },
+    {
+        "pricing_id": "3",
+        "serve_name": "wash and cut",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 25,
+        "image": "https://5.imimg.com/data5/TD/JY/MY-59447058/hair-cut-hairwash-blowdry.jpg"
+    },
+    {
+        "pricing_id": "4",
+        "serve_name": "Head Shave with Razor",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 20,
+        "image": "https://t3.ftcdn.net/jpg/02/26/28/56/360_F_226285667_9b1dN8nStA5CKiehQdPBh55l4ANj8wN7.jpg"
+    },
+    {
+        "pricing_id": "5",
+        "serve_name": "Short Beard Tidy",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 45,
+        "image": "https://www.beardresource.com/wp-content/uploads/2020/10/trimming-a-short-boxed-beard.jpg"
+    },
+    {
+        "pricing_id": "6",
+        "serve_name": "Children Wash & Cut",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 40,
+        "image": "https://tessais.org/wp-content/uploads/2018/04/shutterstock_654456697.jpg"
+    },
+    {
+        "pricing_id": "7",
+        "serve_name": "Luxury Full Service",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 50,
+        "image": "https://www.insidehook.com/wp-content/uploads/2019/10/BSGnyc3chairs.jpg?fit=1600%2C1200"
+    },
+    {
+        "pricing_id": "8",
+        "serve_name": "Large beard trim",
+        "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, rerum.",
+        "price": 35,
+        "image": "https://www.themanual.com/wp-content/uploads/sites/9/2016/09/Stock-Beard-Trimming.jpg?resize=1200%2C630&p=1"
+    }
+]
