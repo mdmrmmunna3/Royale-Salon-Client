@@ -1,0 +1,14 @@
+.slick-prev:before {
+    content: '';
+}
+
+.slick-next:before {
+    content: '';
+}
+
+.logoChangeBg {
+    filter: drop-shadow(0px 100px 0 #5b615b);
+    transform: translateY(-100px);
+    /* filter: invert(96%) sepia(0%) saturate(3677%) hue-rotate(333deg) brightness(78%) contrast(66%); */
+
+}

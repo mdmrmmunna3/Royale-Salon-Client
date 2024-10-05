@@ -1,5 +1,6 @@
 
 import Helmet from "../../../components/HelmetTitel/HelmetTitel";
+import CompanyLogos from "../../Shared/CompanyLogos/CompanyLogos";
 import About from "../About/About";
 import Appoinment from "../Appoinment/Appoinment";
 import Banner from "../Banner/Banner";
@@ -31,6 +32,7 @@ const Home = () => {
                 <HairStylist></HairStylist>
                 <LatestNews></LatestNews>
                 <Appoinment></Appoinment>
+                <CompanyLogos></CompanyLogos>
             </div>
         </>
 
