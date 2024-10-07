@@ -31,8 +31,8 @@ const Home = () => {
                 <OurServices></OurServices>
                 <HairStylist></HairStylist>
                 <LatestNews></LatestNews>
-                <Appoinment></Appoinment>
                 <CompanyLogos></CompanyLogos>
+                <Appoinment></Appoinment>
             </div>
         </>
 

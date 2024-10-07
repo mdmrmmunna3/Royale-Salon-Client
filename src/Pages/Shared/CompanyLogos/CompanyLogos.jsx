@@ -24,7 +24,7 @@ const CompanyLogos = () => {
     };
 
     return (
-        <section className="md:mx-14 lg:mx-28 mx-2 py-6">
+        <section className="md:mx-14 lg:mx-28 mx-2 py-6 my-6">
             <div className="slider-container">
                 <Slider {...settings}>
                     <div>
