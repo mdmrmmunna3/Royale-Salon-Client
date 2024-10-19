@@ -35,6 +35,7 @@ const Testimonial = () => {
                 <div className="testi_overlay ">
                     <>
                         <Swiper
+                            loop={true}
                             spaceBetween={30}
                             pagination={{
                                 clickable: true,

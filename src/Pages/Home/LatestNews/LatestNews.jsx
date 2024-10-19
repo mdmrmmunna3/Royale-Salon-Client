@@ -28,6 +28,7 @@ const LatestNews = () => {
             <SectionTitel heading="Blogs & News"></SectionTitel>
             <div>
                 <Swiper
+                    loop={true}
                     slidesPerView={3}
                     spaceBetween={30}
                     pagination={{
@@ -83,7 +84,7 @@ const LatestNews = () => {
                 </Swiper>
             </div>
 
-        </section>
+        </section >
     );
 };
 

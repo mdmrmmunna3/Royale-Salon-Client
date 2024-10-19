@@ -18,6 +18,7 @@ const Banner = () => {
     return (
         <div>
             <Swiper
+                loop={true}
                 spaceBetween={30}
                 centeredSlides={true}
                 autoplay={{
